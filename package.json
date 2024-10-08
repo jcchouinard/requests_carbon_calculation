@@ -1,0 +1,20 @@
+{
+  "name": "emissions-js-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@danhartley/emissions": "^0.1.0",
+    "lighthouse": "^12.2.1",
+    "puppeteer": "^22.12.1"
+  },
+  "dependencies": {
+    "@tgwf/co2": "^0.16.1"
+  }
+}
